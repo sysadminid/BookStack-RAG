@@ -76,6 +76,7 @@ A **Retrieval-Augmented Generation (RAG)** system for [BookStack](https://www.bo
 
 
 ### Widget
+![Widget-ScreenCaptured](https://github.com/sysadminid/BookStack-RAG/blob/main/images/widget.png?raw=true)
 - `sidecar-widget/base-body-end.blade.php`: BookStack theme template that injects a Shadow DOM-isolated search widget with:
   - Floating action button (FAB)
   - Ctrl+K / ⌘K global shortcut
